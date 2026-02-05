@@ -1,0 +1,29 @@
+[
+  {
+    "oid": 1,
+    "name": "Raul Romero",
+    "amount": 1000.0,
+    "currency": "EUR",
+    "identification": "12345678A",
+    "entryDate": "2024-06-01T10:00:00.000+00:00",
+    "state": "PENDING"
+  },
+  {
+    "oid": 2,
+    "name": "Carmen Gómez",
+    "amount": 2500.5,
+    "currency": "USD",
+    "identification": "87654321B",
+    "entryDate": "2024-06-02T11:30:00.000+00:00",
+    "state": "APPROVED"
+  },
+  {
+    "oid": 3,
+    "name": "Rafaela Sánchez",
+    "amount": 500.75,
+    "currency": "EUR",
+    "identification": "11223344C",
+    "entryDate": "2024-06-03T09:15:00.000+00:00",
+    "state": "REJECTED"
+  }
+]
