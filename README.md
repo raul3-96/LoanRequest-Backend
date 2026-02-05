@@ -13,7 +13,7 @@ Este proyecto utiliza Spring Boot y Maven. Para ejecutarlo localmente:
    - Ejecuta:
      ```bash
      ./mvnw spring-boot:run
-   - El servicio se iniciará en el puerto por defecto (8080).
+   - El servicio se iniciará en el puerto por defecto (8080) y se publica en 'api/loan-requests'. Por ejemplo 'http://localhost:8080/api/loan-requests'
 
 ## 2. Arquitectura y decisiones técnicas tomadas
 
